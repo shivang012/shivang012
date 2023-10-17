@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivang Bhensdadia</h1>
-<h3 align="center">A prefinal year student of VIT Bhopal</h3>
+<h3 align="center">A final year student of VIT Bhopal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivang012&label=Profile%20views&color=0e75b6&style=flat" alt="shivang012" /> </p>
 
