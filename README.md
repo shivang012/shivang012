@@ -4,9 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivang012&label=Profile%20views&color=0e75b6&style=flat" alt="shivang012" /> </p>
 
 👨‍💻 Python Developer | MySQL | Flask APIs
+
 💡 Passionate about solving real-world problems through code
+
 🔨 Built SwiftSupport App during my internship at Brilworks
+
 🚀 Always learning and exploring new technologies
+
 📫 How to reach me **patelshivang012@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
